@@ -1,0 +1,23 @@
+
+ ../$Recycle.Bin/
+        ../DumpStack.log.tmp
+        ../Intel/
+        ../Program Files (x86)/
+        ../Program Files/
+        ../ProgramData/
+        ../Python3/
+        ../Reflect_Install.log
+        ../User_manual/
+        ../Users/
+        ../Windows/
+        ../boot/
+        ../bootTel.dat
+        ../cmder/
+        ../hiberfil.sys
+        ../node_modules/
+        ../pagefile.sys
+        ../recovery/
+        ../rfw/
+        ../rhdsetup.log
+        ../setup.log
+        ../swapfile.sys
